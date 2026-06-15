@@ -4,6 +4,8 @@
 
 It helps users generate a free Bazi chart, understand their Day Master, Five Elements, hidden stems, and luck cycles, and optionally unlock a deeper AI-assisted cultural reading.
 
+![Hidden Stems Bazi Oracle interface showing a birth chart form, Five Elements diagram, Four Pillars cards, and cultural reading preview.](assets/hidden-stems-bazi-oracle.png)
+
 ## What It Does
 
 - Generates a free Bazi / Four Pillars chart
@@ -11,6 +13,14 @@ It helps users generate a free Bazi chart, understand their Day Master, Five Ele
 - Explains the Day Master and Five Elements in plain English
 - Keeps traditional terms visible while making the chart easier for beginners
 - Offers an optional paid report for a longer interpretation
+
+## Ten Heavenly Stems
+
+The Ten Heavenly Stems are presented like small oracle cards: Chinese characters first, English explanations second.
+
+![A visual guide to the Ten Heavenly Stems in Bazi, showing Chinese calligraphy, elemental types, and short personality notes.](assets/ten-heavenly-stems.png)
+
+The goal is to preserve the texture of the original system while making it readable for people who are new to Bazi.
 
 ## Why It Exists
 
@@ -34,4 +44,3 @@ Hidden Stems supports English, Simplified Chinese, Traditional Chinese, Japanese
 ## Disclaimer
 
 Hidden Stems is for cultural learning, self-reflection, and entertainment. It is not medical, legal, financial, investment, or relationship advice.
-
